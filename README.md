@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cartloslopezjuan
 - 👀 I’m interested in Internet of Things
-- 🌱 I’m currently learning python and Azure
+- 🌱 I’m currently learning python and AWS
 - 💞️ I’m looking to collaborate on Cloud projects
 - 📫 How to reach me  private message
 
